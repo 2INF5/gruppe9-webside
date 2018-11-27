@@ -1,1 +1,36 @@
+body {
+	background-color: #383333;
+	font-family: "Times New Roman", Arial, sans-serif;
+	font-size: 18px;
+	color: #323232;
+}
 
+h1 {
+	font-family: "Georgia", sans-serif;
+	color: #880000;
+}
+
+h4 {
+	font-family: "Georgia", sans-serif;
+	color: #880000;
+}
+
+ul {
+	list-style-type: none;
+}
+
+ul a {
+	display: block;
+	color: #FA8072;
+	font-weight: bold;
+	text-decoration: none;
+	width: 100px;
+	padding: 30px 59px;
+	margin: 5px;
+	border: 2px solid #444444;
+	background-color: #999999;
+}
+
+ul a:hover{
+	background-color: #a04444;
+}
